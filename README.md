@@ -4,7 +4,7 @@ A practice react project making a Kanban board
 ### User Stories
 
 *As a user I want to be able to:*
-(*) = MVP
+MVP = *
 
 - log into my account
 - create a new board *
@@ -24,5 +24,5 @@ A practice react project making a Kanban board
 
 ### Collaborators
 
-- George
+- George(*) = MVP
 - Jesse
