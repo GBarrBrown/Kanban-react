@@ -1,4 +1,4 @@
-# Kanban-react
+# react-kanban
 A practice react project making a Kanban board
 
 ### User Stories
