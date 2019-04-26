@@ -24,5 +24,5 @@ MVP = *
 
 ### Collaborators
 
-- George(*) = MVP
+- George
 - Jesse
