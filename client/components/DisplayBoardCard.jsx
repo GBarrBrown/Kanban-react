@@ -2,9 +2,9 @@ import React from 'react'
 
 const DisplayBoardCard = (props) => {
     return (
-        <div>
-            <h4>Title: {props.name}</h4>
-            <h4>Description: {props.description}</h4>
+        <div className="BoardCard">
+            <p>Title: {props.name}</p>
+            <p>Description: {props.description}</p>
         </div>
     )
 }

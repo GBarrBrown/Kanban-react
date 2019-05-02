@@ -6,6 +6,8 @@ const App = () => {
         <Fragment>
             <h1>Hello, world!</h1>
             <DisplayBoardCard name="This is the title" description="This is the description"/>
+            <DisplayBoardCard name="This is the title" description="This is the description"/>
+            <DisplayBoardCard name="This is the title" description="This is the description"/>
         </Fragment>
     )
 }
