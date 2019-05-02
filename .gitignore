@@ -3,3 +3,5 @@ node_modules
 public/bundle.*
 
 *.sqlite3
+
+.DS_STORE
